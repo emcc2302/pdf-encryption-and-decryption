@@ -1,7 +1,3 @@
-I'd be happy to generate a comprehensive `README.md` file for your PDF Encrypter/Decrypter GUI project.
-
-Here is the content, which follows standard documentation best practices:
-
 ````markdown
 # PDF Encrypter & Decrypter GUI 🔒🔓
 
